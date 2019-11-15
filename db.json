@@ -1,0 +1,19 @@
+{
+    "customers" : [
+        {
+            "name": "jhon",
+            "phone": "0933020818",
+            "address": "tehran",
+            "membership": "pro",
+            "id": 1
+        },
+        {
+            "name": "jhon",
+            "phone": "0933020818",
+            "address": "tehran",
+            "membership": "pro",
+            "id": 2
+        }
+  
+    ]
+}
