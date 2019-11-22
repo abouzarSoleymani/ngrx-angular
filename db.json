@@ -1,19 +1,32 @@
 {
-    "customers" : [
-        {
-            "name": "jhon",
-            "phone": "0933020818",
-            "address": "tehran",
-            "membership": "pro",
-            "id": 1
-        },
-        {
-            "name": "jhon",
-            "phone": "0933020818",
-            "address": "tehran",
-            "membership": "pro",
-            "id": 2
-        }
-  
-    ]
+  "customers": [
+    {
+      "name": "jhon",
+      "phone": "0933020818",
+      "address": "tehran",
+      "membership": "pro",
+      "id": 1
+    },
+    {
+      "name": "jhon",
+      "phone": "0933020818",
+      "address": "tehran",
+      "membership": "pro",
+      "id": 2
+    },
+    {
+      "name": "ali",
+      "phone": "ali",
+      "address": "میدان سبلان - خیابان حیدری - کوچه فتحی - کوچه کرمی نژاد - پلاک 2 - طبقه دوم",
+      "membership": "Platinum",
+      "id": 3
+    },
+    {
+      "name": "fefefe",
+      "phone": "fef",
+      "address": "efeffffff",
+      "membership": "Basic",
+      "id": 4
+    }
+  ]
 }
